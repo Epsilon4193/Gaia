@@ -11,7 +11,7 @@ This project should allow you to:
 -Monitor Events (Organization Account)
 -Manage Events (Organization Account)
 
-This project used XAMPP mySQL Service and Apache Service for database.
+This project used XAMPP mySQL Service for database.
 "Before using please make a new database in phpmyadmin called "gaia" and then import the "gaia.sql" database"
 
 
